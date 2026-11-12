@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.jpg" alt="Human After All - PROJECT.EXE" width="100%" />
+<img src="./assets/header.png" alt="Human After All - PROJECT.EXE" width="100%" />
 
 # Hi 👋, I'm Dokizer
 
