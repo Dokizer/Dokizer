@@ -5,7 +5,7 @@
 # Hi 👋, I'm Dokizer
 
 ### 🤖 AI Developer & Systems Engineer
-**Human after all — bridging human creativity with artificial intelligence**
+**Human after all — bridging human intuition with artificial intelligence**
 
 *Building intelligent neural systems, autonomous agents, and scalable backend architectures.*
 
@@ -19,16 +19,16 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        <strong>Dokizer, Here</strong> — an <strong>AI Developer & Software Engineer</strong> dedicated to building next-generation intelligent applications and scalable software systems.
+        <strong>Dokizer, Here</strong> — an AI Developer & Software Engineer dedicated to crafting intelligent systems and resilient machine learning pipelines.
       </p>
       <p>
-        I enjoy developing production-ready AI pipelines, experimenting with modern <strong>LLMs, Autonomous Agents</strong>, fine-tuning neural models, and crafting high-throughput backend APIs.
+        I enjoy developing production-grade AI applications, fine-tuning LLMs, building autonomous agent workflows, and exploring neural architectures.
       </p>
       <p>
-        Currently delving into <strong>PyTorch, LangChain, FastAPI, Docker, and Vector Databases</strong>, while pushing the boundaries of human-machine symbiosis.
+        Currently delving into <strong>PyTorch, LangChain, FastAPI, Docker, and Vector Databases, sharpening my problem-solving through algorithmic design.</strong>
       </p>
       <p>
-        <em>My philosophy is simple: write clean code, architect resilient systems, and leverage AI to build things that matter.</em>
+        <em>My philosophy is simple: write clean code, architect scalable systems, and build software that amplifies human creativity.</em>
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -62,6 +62,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,ts,react,nextjs,postgres,redis,linux,git" alt="Tech Stack" />
+  <img src="./assets/claude.svg" width="48" height="48" alt="Claude" />
 </p>
 
 <p align="center">
@@ -69,6 +70,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -81,14 +83,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dokizer&theme=tokyonight&hide_border=true&background=0d1117" alt="Dokizer's Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dokizer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="Dokizer's GitHub Stats" />
 </p>
 
 ---
-
 ### 📈 Activity Graph
 
 <p align="center">
