@@ -61,7 +61,7 @@
 ### 💻 Tech Stack & AI Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,ts,react,nextjs,postgres,redis,linux,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,kotlin,fastapi,docker,ts,react,nextjs,postgres,redis,linux,git" alt="Tech Stack" />
   <img src="./assets/claude.svg" width="48" height="48" alt="Claude" />
 </p>
 
@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 ---
